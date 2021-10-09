@@ -1,0 +1,35 @@
+/* pages/join/join.wxss */
+.auto{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.container{
+    position: absolute;
+    top: 550rpx;
+    left: 205rpx;
+    width: 350rpx;
+    height: 800rpx;
+    z-index: 0;
+}
+
+#username{
+    height: 80rpx;
+}
+.read{
+    margin-top: 100rpx;
+    background-color: rgb(200, 220, 238);
+}
+.button_1{
+    position: relative;
+    height: 120rpx;
+    margin-top: 120rpx;
+    left: -16rpx;
+    font-size: 50rpx;
+    color: rgb(255, 153, 0);
+    background-color: rgb(254, 255, 183);
+    border:10rpx solid rgb(243, 127, 46);
+    border-radius: 35rpx;
+}

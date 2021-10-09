@@ -1,0 +1,22 @@
+<!--pages/game/game.wxml-->
+<view class="auto">
+    <image style="width:100%;height:100%;" mode='aspectFill' src="http://m.qpic.cn/psc?/54881c6b-985b-436f-a0ab-4079de7ce009/45NBuzDIW489QBoVep5mccreF.IgWTJncxVeoHhYYtGW4s5X3U78wDQsITSzLLVYtaBuowOIHXP8GOLROp1YK9ZEoCQwWwge*UcVk.HEgao!/b&bo=aAEMAwAAAAADN3Q!&rf=viewer_4"></image>
+</view>
+
+<view class="auto">
+    <image style="width:100%;height:100%;" mode='aspectFill' src="http://m.qpic.cn/psc?/54881c6b-985b-436f-a0ab-4079de7ce009/45NBuzDIW489QBoVep5mccreF.IgWTJncxVeoHhYYtHrXYE426inlfg0shB9ALqhJVdebcw7Yz9*V4w9xVfLx4tMMTgy.*LqcdCqjwDxtj8!/b&bo=aAEMAwAAAAADF1Q!&rf=viewer_4"></image>
+</view>
+
+<view class="container">
+    <button class="text1" bindtap="toBegin1" size="mini">退出房间</button>
+</view>
+
+<open-data type="userAvatarUrl" class="image1"></open-data>
+<open-data type="userNickName" class="container1" style="color: rgb(255, 234, 234);"></open-data>
+
+
+<view class="container2">
+    
+    <button class="button" style="width:40%" size="mini" bindtap="go">开始博饼</button>
+
+</view>

@@ -1,0 +1,28 @@
+
+<view class="auto">
+    <image style="width:100%;height:100%;" mode='aspectFill' src="http://m.qpic.cn/psc?/54881c6b-985b-436f-a0ab-4079de7ce009/45NBuzDIW489QBoVep5mcfFLnV2mOfLWfAqvuWQBoOsaRllo8fOc990GJyrMTHxaC0cN4pm6TxjIMH9baYcm*.1bMwsmqRKzXyJkBTGuNy0!/b&bo=OAQkCQAAAAADV2M!&rf=viewer_4"></image>
+</view>
+
+<view class="auto">
+    <image style="width:100%;height:100%;" mode='aspectFill' src="http://m.qpic.cn/psc?/54881c6b-985b-436f-a0ab-4079de7ce009/45NBuzDIW489QBoVep5mcfFLnV2mOfLWfAqvuWQBoOv9mHShr9OxDb9DO8JIB.eMPBRvKxmVZU416uyn2tmXeu0fAHYams7XUwFZ7CLIIjE!/b&bo=OAQkCQAAAAADV2M!&rf=viewer_4"></image>
+</view>
+
+<view class="auto">
+    <image style="width:100%;height:100%;" mode='aspectFill' src="http://m.qpic.cn/psc?/54881c6b-985b-436f-a0ab-4079de7ce009/45NBuzDIW489QBoVep5mcZEzzCeXkg4DMbmailYeAMg*7v0semxvJfqzfoKeKok.YijhVXBQhd41TLqwF1B9SiayDKiWx3XoGa15VywOTlQ!/b&bo=OAQkCQAAAAADFyM!&rf=viewer_4"></image>
+</view>
+
+
+<view class="container">
+    <button style="width:25%" bindtap="toBegin" class="button_1">规则</button>
+
+    <button style="width:30%" bindtap="toBegin2" class="button_2">
+        <view class="mod-text">  <text>单人游戏</text> </view>
+    </button>
+
+    <button style="width:30%" bindtap="toBegin3" class="button_3">
+        <view class="mod-text">  <text>多人游戏</text> </view>
+    </button>
+
+    <button style="width:25%" bindtap="toBegin4" class="button_4">奖品</button>
+
+</view>

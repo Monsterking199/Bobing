@@ -1,0 +1,4 @@
+<!--pages/award/award.wxml-->
+<view class="auto">
+    <image style="width:100%;height:100%;" mode='aspectFill' src="http://m.qpic.cn/psc?/54881c6b-985b-436f-a0ab-4079de7ce009/45NBuzDIW489QBoVep5mccreF.IgWTJncxVeoHhYYtEwRtUOPEUjn07mNwsSeCZSbZTjirP8sWYMSIlSwaJIZY0cvQdEQHK5v0TVMCFs0bc!/b&bo=aAEMAwAAAAADN3Q!&rf=viewer_4"></image>
+</view>

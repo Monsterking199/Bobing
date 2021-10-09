@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/help/help",
+    "pages/multigame_READY/multigame_READY",
+    "pages/multigame_RES/multigame_RES",
+    "pages/set/set",
+    "pages/creat/creat",
+    "pages/found/found",
+    "pages/game/game",
+    "pages/join/join",
+    "pages/award/award"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "EE308博饼",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

@@ -1,0 +1,14 @@
+<!--pages/game/game.wxml-->
+<view class="auto">
+    <image style="width:100%;height:100%;" mode='aspectFill' src="http://m.qpic.cn/psc?/54881c6b-985b-436f-a0ab-4079de7ce009/45NBuzDIW489QBoVep5mcZUbhmCu.2ajQ4N5yQxza6cp*h8xF1AtUovrkwqI5xSjMVpeffN8fjupJUB14O4EGMaoIcG1gPzM.cOZdIIraLI!/b&bo=aAEMAwAAAAADN3Q!&rf=viewer_4"></image>
+</view>
+
+
+<view class="container">
+    <button class="text1" bindtap="toBegin1" size="mini">退出房间</button>
+</view>
+
+
+<view class="container2">
+    <button class="button" style="width:40%" size="mini" bindtap="toBegin">下一位</button>
+</view>
